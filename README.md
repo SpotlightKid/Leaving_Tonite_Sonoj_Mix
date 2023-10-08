@@ -5,6 +5,7 @@ for my presentation "How to play FLOSS keyboards like it's 1978" at Sonoj 2023.
 
 ## Plugins used in this session:
 
+```
 CNT | TYPE | NAME
   1 * LV2    setBfree DSP Tonewheel Organ (by Robin Gareus)
   3 * LV2    Obxd (by Datsounds)
@@ -29,7 +30,8 @@ CNT | TYPE | NAME
   1 * LV2    ACE Compressor (by Ardour Community)
   1 * LV2    MaPitchshift (by DISTRHO)
   6 * LV2    EQ4Q Stereo (by Pere Ràfols Soler)
- 
+```
+
 * *CChorus* can be found at https://github.com/SpotlightKid/cchorus
 * *StereoCrossDelay* can be found at https://github.com/SpotlightKid/stereocrossdelay
 * *OB-Xd*, *TAL Noisemaker*  and *Tal-Vocoder-II* are from [DISTRHO Ports](https://asb2m10.github.io/dexed/)
