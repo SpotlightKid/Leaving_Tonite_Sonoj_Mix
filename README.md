@@ -11,7 +11,8 @@ If you want to support my work, you can also buy this track on BandCamp.
 
 * Buy ["Leaving Tonite" on BandCamp](https://spotlight-kyd.bandcamp.com/track/leaving-tonite-sonoj-mix)!
 * Listen to it [on SoundCloud](https://soundcloud.com/spotlight-kyd/leaving-tonite) …
-* … or download it [from my Nextcloud server](https://0x20.eu/nc/s/oHwRS6SGXLCosxf).
+* … or download it from my Nextcloud server in [Ogg Vorbis](https://0x20.eu/nc/s/oHwRS6SGXLCosxf) or
+    [FLAC](https://0x20.eu/nc/s/JZkWAFnkjgmoksR) format.
 
 
 ## Plugins used in this session:
