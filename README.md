@@ -4,7 +4,7 @@ This is the archived Ardour project for the track "Leaving Tonite", which I comp
 for my presentation "How to play FLOSS keyboards like it's 1978" at Sonoj 2023.
 
 This track is released under a Creative Commons Attribution ShareAlike 4.0 license and
-you can download from SoundCloud or from my server and use and share it freely under 
+you can download it from SoundCloud or from my server and use and share it freely under 
 the conditions of this license.
 
 If you want to support my work, you can also buy this track on BandCamp.
